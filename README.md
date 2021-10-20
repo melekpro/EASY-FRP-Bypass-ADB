@@ -1,0 +1,2 @@
+# EASY-FRP-Bypass-ADB
+EASY FRP Bypass ADB
